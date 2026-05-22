@@ -1,0 +1,1 @@
+[32mINFO    [0m undetected_chromedriver.patcher:patcher.py:346 patching driver executable C:\Users\admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe

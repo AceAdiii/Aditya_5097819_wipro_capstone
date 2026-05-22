@@ -1,0 +1,7 @@
+pytest
+selenium
+allure-pytest
+webdriver-manager
+undetected-chromedriver
+pytest-rerunfailures
+pytest-xdist

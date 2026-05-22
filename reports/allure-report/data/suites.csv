@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Verify user can complete bus booking till payment page","64034","E2E | Home → Search → Seat → Passenger → Payment","tests","2026-05-21","passed","2026-05-21","TestBusE2E","test_e2e","",""
+"Verify user can complete bus booking till payment page","3195","E2E | Home → Search → Seat → Passenger → Payment","","2026-05-21","passed","2026-05-21","","","",""

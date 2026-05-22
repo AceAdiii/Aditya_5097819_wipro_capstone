@@ -1,0 +1,33 @@
+2026-05-21 14:31:12 | INFO | execution | ========== STARTING TEST ==========
+2026-05-21 14:31:29 | INFO | execution | Goibibo launched successfully
+2026-05-21 14:31:30 | INFO | execution | Generic popup closed.
+2026-05-21 14:31:40 | INFO | execution | Login popup not present – skipping.
+2026-05-21 14:31:40 | INFO | execution | Clicking Bus tab.
+2026-05-21 14:31:58 | INFO | execution | Entering source city: Delhi
+2026-05-21 14:32:01 | INFO | execution | Selected source city: Delhi
+2026-05-21 14:32:01 | INFO | execution | Entering destination city: Mussoorie
+2026-05-21 14:32:02 | INFO | execution | Selected destination city: Mussoorie
+2026-05-21 14:32:02 | INFO | execution | Clicking Search Bus button.
+2026-05-21 14:32:02 | INFO | execution | Verifying bus results are displayed.
+2026-05-21 14:32:03 | INFO | execution | Clicking SELECT SEAT on second bus.
+2026-05-21 14:32:12 | INFO | execution | Selecting first boarding point.
+2026-05-21 14:32:12 | INFO | execution | Boarding point selected and confirmed.
+2026-05-21 14:32:13 | INFO | execution | Selecting first dropping point.
+2026-05-21 14:32:13 | INFO | execution | Dropping point already pre-selected, skipping click.
+2026-05-21 14:32:13 | INFO | execution | Dropping point selected and confirmed.
+2026-05-21 14:32:13 | INFO | execution | Selecting first available seat.
+2026-05-21 14:32:14 | INFO | execution | Seat selected successfully.
+2026-05-21 14:32:14 | INFO | execution | Clicking CONTINUE button.
+2026-05-21 14:32:20 | INFO | execution | Selecting Male gender option.
+2026-05-21 14:32:20 | INFO | execution | Male gender selected successfully.
+2026-05-21 14:32:20 | INFO | execution | Looking for confirm checkbox...
+2026-05-21 14:32:20 | INFO | execution | Confirm checkbox clicked successfully.
+2026-05-21 14:32:26 | INFO | execution | Selecting Credit/Debit/ATM Card payment option.
+2026-05-21 14:32:33 | INFO | execution | Card payment option selected successfully.
+2026-05-21 14:32:33 | INFO | execution | Verifying Cards payment page loaded.
+2026-05-21 14:32:33 | INFO | execution | Cards payment page loaded successfully.
+2026-05-21 14:32:33 | INFO | execution | Cards payment page displayed successfully.
+2026-05-21 14:32:33 | INFO | execution | E2E TEST PASSED
+2026-05-21 14:32:34 | INFO | execution | Screenshot saved: reports/screenshots\PASSED_test_bus_e2e_home_to_payment_20260521_143233.png
+2026-05-21 14:32:34 | INFO | execution | Closing browser
+2026-05-21 14:32:37 | INFO | execution | ========== TEST FINISHED ==========
