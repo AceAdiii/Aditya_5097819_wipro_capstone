@@ -1,0 +1,7 @@
+behave
+selenium
+allure-behave
+allure-python-commons
+undetected-chromedriver
+webdriver-manager
+setuptools
